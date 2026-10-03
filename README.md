@@ -5,3 +5,5 @@
 When I am teaching from the Steam Frame using video, I need a small, portable camera to carry with me so I can show things.   
 I know the camera is shit, but it's portable and easy to connect.  
 So let's at least make a little app you can install on your Frame and Android phone.  
+
+Info:  https://github.com/EloiStree/HelloXiaoCamToRXTX
