@@ -1,3 +1,8 @@
+```
+git clone --recursive https://github.com/EloiStree/G32S2.git
+cd G32S3
+git submodule foreach "git switch main"
+```
 # G32S3
 
 > Simple app to display your ESP32-S3 camera feed in a Godot app on the Steam Frame and other devices.
